@@ -1,5 +1,3 @@
-# My-Power-BI-repo
-
 
 # Sales and Shipping Report - 
 View my Power BI report here ----> [Report link](https://app.powerbi.com/view?r=eyJrIjoiMTdkYzgyOWUtNmY0OS00NGZhLWI0MzAtOTEwZGI3ZmRjNDhlIiwidCI6ImQ0MWZkYWIxLTdlMTUtNGNmZC1iNWZhLTcyMDBlNTRkZWI2YiJ9)
